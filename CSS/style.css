@@ -1,0 +1,95 @@
+body {
+    background: grey;
+}
+
+.div-header {
+    background: #B867EA;
+    height: 230px;
+    width: auto;
+}
+
+.logo-1 {
+    height: 120px;
+    width: auto;
+    position: absolute;
+    top: 10%;
+    left: 6%;
+}
+.Menu-1 {
+    width: auto;
+    top: 18%;
+    right: 1%;
+    position: absolute;
+    font-size: 20px;
+    font-family: cursive;
+    
+}
+
+.blurb-main {
+    background: #7A49EC ;
+    display: flex;
+    width: 800px;
+    margin: auto
+}
+
+.blurb-1 {
+    width: 33.33%;
+    background: #E7F572 ;
+    padding: 20px;
+    text-align: center;
+    border: 2px inset black;
+    margin: 5px;
+}
+
+.blurb-2 {
+    width: 33.33%;
+    background: #F5CB72 ;
+    padding: 20px;
+    text-align: center;
+    border: 2px inset black;
+    margin: 5px;
+}
+
+.blurb-3 {
+    width: 33.33%;
+    background: #9DF572 ;
+    padding: 20px;
+    text-align: center;
+    border: 2px inset black;
+    margin: 5px;
+}
+
+.div-2 {
+    background: aliceblue;
+    height: auto;
+    width: 800px;
+    margin: auto;
+    border: 3px solid green;
+}
+
+#lorem-1 {
+    background: Aliceblue;
+    height: 240px;
+    width: auto;
+    margin: 25px;
+    border: 10px green dashed;
+    outline-color: white;
+    outline-offset: 10px;
+    outline-width: thick;
+    padding: 5px;
+    outline-style: dashed
+    
+}
+
+.lorem-2 {
+    color: red;
+    background: white;
+    letter-spacing: 1.2px;
+    line-height: 25px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 100px;
+    text-shadow: 2px 2px 5px black;
+    text-transform: capitalize;
+    word-spacing: 10px;
+}
